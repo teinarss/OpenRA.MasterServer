@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenRA.MasterServer", "OpenRA.MasterServer\OpenRA.MasterServer.csproj", "{9D070945-2DD5-4716-891D-1DB0FF8D8214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D070945-2DD5-4716-891D-1DB0FF8D8214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D070945-2DD5-4716-891D-1DB0FF8D8214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D070945-2DD5-4716-891D-1DB0FF8D8214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D070945-2DD5-4716-891D-1DB0FF8D8214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58DB726F-F7C4-4228-9A2D-0F44510C7EF1}
+	EndGlobalSection
+EndGlobal
