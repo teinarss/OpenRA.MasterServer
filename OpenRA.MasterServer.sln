@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30204.135
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenRA.MasterServer", "OpenRA.MasterServer\OpenRA.MasterServer.csproj", "{9D070945-2DD5-4716-891D-1DB0FF8D8214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenRA.MasterServer", "OpenRA.MasterServer\OpenRA.MasterServer.csproj", "{9D070945-2DD5-4716-891D-1DB0FF8D8214}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenRA.MiniYamlParser", "OpenRA.MiniYamlParser\OpenRA.MiniYamlParser.csproj", "{E87F88D7-0D06-42B2-86B2-136C7FD00E9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9D070945-2DD5-4716-891D-1DB0FF8D8214}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D070945-2DD5-4716-891D-1DB0FF8D8214}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D070945-2DD5-4716-891D-1DB0FF8D8214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87F88D7-0D06-42B2-86B2-136C7FD00E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87F88D7-0D06-42B2-86B2-136C7FD00E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87F88D7-0D06-42B2-86B2-136C7FD00E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87F88D7-0D06-42B2-86B2-136C7FD00E9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
